@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FinPay.Application/FinPay.Application.csproj" />
+    <Project Path="src/FinPay.Domain/FinPay.Domain.csproj" />
+    <Project Path="src/FinPay.Infrastructure/FinPay.Infrastructure.csproj" />
+    <Project Path="src/FinPay.Web/FinPay.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FinPay.IntegrationTests/FinPay.IntegrationTests.csproj" />
+    <Project Path="tests/FinPay.UnitTests/FinPay.UnitTests.csproj" />
+  </Folder>
+</Solution>

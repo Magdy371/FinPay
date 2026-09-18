@@ -1,0 +1,63 @@
+PHASE 1
+✓ Solution
+✓ Projects
+✓ Dependencies
+✓ PostgreSQL
+✓ Redis
+        ↓
+PHASE 2
+Domain model
+        ↓
+PHASE 3
+EF Core DbContext
+        ↓
+PHASE 4
+Migrations
+        ↓
+PHASE 5
+ASP.NET Identity
+        ↓
+PHASE 6
+JWT + authentication
+        ↓
+PHASE 7
+Wallet/account creation
+        ↓
+PHASE 8
+Double-entry ledger
+        ↓
+PHASE 9
+Deposit / withdrawal
+        ↓
+PHASE 10
+Money transfer
+        ↓
+PHASE 11
+Concurrency + database transactions
+        ↓
+PHASE 12
+Beneficiaries
+        ↓
+PHASE 13
+Cards
+        ↓
+PHASE 14
+Blazor dashboard
+        ↓
+PHASE 15
+Admin dashboard
+        ↓
+PHASE 16
+Redis / caching / rate limiting
+        ↓
+PHASE 17
+Notifications
+        ↓
+PHASE 18
+Tests
+        ↓
+PHASE 19
+Docker
+        ↓
+PHASE 20
+Production hardening
